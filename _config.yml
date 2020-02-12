@@ -1,18 +1,20 @@
 title: Kevin Schroeder
 subtitle: Mechanical Engineering Student
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  Kevin's Personal Portfolio Website
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://kmschr.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
+    - text: Welcome
       url: /
+    - text: About Me
+      url: /about
     - text: Blog
       url: /blog
     - text: Contact Me
-      url : /contact
+      url: /contact
 
 # Edit these details
 
@@ -28,19 +30,19 @@ author_work_experiences:
               company_logo: spirae.png
               company_url: https://www.spirae.com
               designation: Software Engineering Intern
-              description: Prototyped a portable microgrid monitor/control web application <br /><a href="https://google.com">read more</a>
+              description: Prototyped a portable microgrid monitor/control web application <br /><a href="https://google.com">read more...</a>
               visibility: true
             - company_name: Precision Machined Products
               company_logo: pmp.png
               company_url: https://www.pmpmach.com
               designation: General Shop Assistant
-              description: Assisted in machining and processing of high tolerance aerospace parts <br /><a href="https://google.com">read more</a>
+              description: Assisted in machining and processing of high tolerance aerospace parts <br /><a href="https://google.com">read more...</a>
               visibility: true
             - company_name: University of Maryland Energy Research Center
               company_logo: umd.jpg
               company_url: https://energy.umd.edu/
               designation: NSF Research Transportation Electrification
-              description: Assisted in production of bi-layered electrolyte solid oxide fuel cells<br /><a href="https://google.com">read more</a>
+              description: Assisted in production of bi-layered electrolyte solid oxide fuel cells<br /><a href="https://google.com">read more...</a>
               visibility: true
 
 author_education_details:
