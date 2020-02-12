@@ -19,24 +19,24 @@ urls:
 # Edit these details
 
 author_logo: profile.jpg
-author: Kevon Schroeder
-author_bio: Hello, My Name is John Doe. I love to Code and Design.
+author: Kevin Schroeder
+author_bio: Hello, My Name is Kevin Schroeder
 author_email: "kmschr@gmail.com"
 author_location: Fort Collins, CO
 author_website_url: "http://kmschr.github.io"
 
 author_work_experiences:
             - company_name: Spirae
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              company_logo: spirae.png
+              company_url: https://www.spirae.com
+              designation: Software Engineering Intern
+              description:
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Precision Machined Products
+              company_logo:
+              company_url: https://www.pmpmach.com
+              designation: General Shop Assistant
+              description:
               visibility: true
 
 author_education_details:
