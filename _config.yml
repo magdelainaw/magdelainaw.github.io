@@ -30,19 +30,19 @@ author_work_experiences:
               company_logo: spirae.png
               company_url: https://www.spirae.com
               designation: Software Engineering Intern
-              description: Prototyped a portable microgrid monitor/control web application <br /><a href="https://google.com">read more...</a>
+              description: Prototyped a portable microgrid monitor/control web application
               visibility: true
             - company_name: Precision Machined Products
               company_logo: pmp.png
               company_url: https://www.pmpmach.com
               designation: General Shop Assistant
-              description: Assisted in machining and processing of high tolerance aerospace parts <br /><a href="https://google.com">read more...</a>
+              description: Engaged in machining and processing of high tolerance aerospace parts
               visibility: true
             - company_name: University of Maryland Energy Research Center
               company_logo: umd.jpg
               company_url: https://energy.umd.edu/
               designation: NSF Research Transportation Electrification
-              description: Assisted in production of bi-layered electrolyte solid oxide fuel cells<br /><a href="https://google.com">read more...</a>
+              description: Assisted in production and testing of bi-layered electrolyte solid oxide fuel cells
               visibility: true
 
 author_education_details:
@@ -56,7 +56,7 @@ author_education_details:
 author_project_details:
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
+                project_description: A Platform built for Gamers and Game Devs <br /><a href="https://google.com">read more...</a>
                 project_url: https://gamershub.in
                 visibility: false
               - project_thumbnail: hack4r.PNG
