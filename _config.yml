@@ -7,7 +7,7 @@ url: "https://kmschr.github.io" # the base hostname & protocol for your site, e.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: Welcome
+    - text: Home
       url: /
     - text: About Me
       url: /about
