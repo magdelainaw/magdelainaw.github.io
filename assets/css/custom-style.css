@@ -23,15 +23,15 @@ blockquote {
 }
 
 @media(max-width: 479px) {
-    .blogimg {
+    .blog-img {
         max-width: 100%;
     }
-    .blogtitle {
+    .blog-title {
         height: auto;
         width: 100%;
         font-size: 18px;
     }
-    .bloggif {
+    .blog-gif {
         max-width: 100%;
     }
 }
