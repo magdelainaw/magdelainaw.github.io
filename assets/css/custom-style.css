@@ -7,3 +7,31 @@ blockquote {
     background: whitesmoke;
     border: 1px solid;
 }
+.blog-img {
+    max-width: 85%;
+}
+
+.blog-title {
+    height: auto;
+    width: 100%;
+    padding: 11px;
+    font-size: 36px;
+}
+
+.blog-gif {
+    max-width: 60%;
+}
+
+@media(max-width: 479px) {
+    .blogimg {
+        max-width: 100%;
+    }
+    .blogtitle {
+        height: auto;
+        width: 100%;
+        font-size: 18px;
+    }
+    .bloggif {
+        max-width: 100%;
+    }
+}
