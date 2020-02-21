@@ -6,6 +6,7 @@ date: '2020-02-20 16:31:23 +0530'
 category: CAD-Showcase
 summary: An overview of my first major CAD modeling project
 thumbnail: CADShowcase_SteamEngine/render.PNG
+permalink: /CADShowcase/SteamEngine
 ---
 
 <link rel="stylesheet" href="/assets/css/custom-style.css">
