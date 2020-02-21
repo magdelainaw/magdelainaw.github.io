@@ -3,7 +3,7 @@ layout: post
 title: CAD Showcase - Tabletop Steam Engine
 author: Kevin Schroeder
 date: '2020-02-20 16:31:23 +0530'
-category: CAD Showcase
+category: CAD-Showcase
 summary: An overview of my first major CAD modeling project
 thumbnail: CADShowcase_SteamEngine/render.PNG
 ---
