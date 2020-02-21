@@ -8,6 +8,7 @@ summary: An overview of my first major CAD modeling project
 thumbnail: CADShowcase_SteamEngine/render.PNG
 ---
 
+<link rel="stylesheet" href="/assets/css/custom-style.css">
 <img class="blog-img" src="/assets/img/posts/CADShowcase_SteamEngine/Sidebyside.png" />
 
 Welcome to the first part of my blog series called CAD Showcase, where I present some of the models I've made and discuss different aspects that make the model interesting. The first model I'll be showing off was made for the final project of my Engineering Design class at CSU. When I first heard about the project I knew I wanted to go all out and make something that I was proud of. It took me about 30 hours to create using PTC Creo Parametric, with more hours spent in research and learning the techniques needed for creating the geometry. It was deemed among the best models made in the history of the class, and can be found on display in the hallway of the mechanical engineering department on campus.
