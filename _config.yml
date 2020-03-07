@@ -1,9 +1,9 @@
-title: Kevin Schroeder
-subtitle: Mechanical Engineering Student
+title: Magdelaina Wellman
+subtitle: Chemistry and Environmental Economics Student
 description: >- # this means to ignore newlines until "baseurl:"
-  Kevin's Personal Portfolio Website
+  Maggies's Personal Portfolio Website
 
-url: "https://kmschr.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://magdelainaw.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -19,17 +19,17 @@ urls:
 # Edit these details
 
 author_logo: profile.jpg
-author: Kevin Schroeder
-author_bio: Hello, my name is Kevin Schroeder. I am a Mechanical Engineering student in my fourth year at CSU. I am pursuing a minor in computer science and have a passion for all things tech. On this site you can find out more about me and learn about some of the projects I have worked on in and out of school.
-author_email: "kmschr@gmail.com"
+author: Magdelaina Wellman
+author_bio: Hello, my name is Maggie.
+author_email: "magdelaina.wellman@gmail.com"
 author_location: Fort Collins, CO
-author_website_url: "http://kmschr.github.io"
+author_website_url: "http://magdelainaw.github.io"
 
 author_work_experiences:
-            - company_name: Spirae
+            - company_name: CSU Chemistry Department
               company_logo: spirae.png
               company_url: https://www.spirae.com
-              designation: Software Engineering Intern
+              designation: Chemistry Outreach Coordinator
               description: Prototyped a portable microgrid monitor/control web application
               visibility: true
             - company_name: Precision Machined Products
@@ -49,7 +49,7 @@ author_education_details:
               - college_logo: csu.jpeg
                 college_name: CSU
                 college_url: https://www.colostate.edu
-                college_degree: Mechanical Engineering
+                college_degree: Chemistry and ENRE
                 description: Bachelor of Science
                 visibility: true
 
@@ -66,8 +66,7 @@ author_project_details:
                 visibility: false
 
 # social links
-github_username:  Kmschr
-linkedin_username: kmschr101
+linkedin_username: magdelaina-wellman-1a340818b
 
 #for comments using disqus
 disqus_shortname:
@@ -76,7 +75,7 @@ disqus_shortname:
 wakatime_username:
 
 # formspree (contact form)
-formspree_email: Kmschr@gmail.com
+formspree_email: magdelaina.wellman@gmail.com
 
 # syntax highlighter
 markdown: kramdown
